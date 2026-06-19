@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">📈 Your Name's Dev Metrics</h1>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=username&color=brightgreen&style=flat-square&label=Profile+Views)
+</p>
 
-**caneroktay/caneroktay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=username&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/username)
+
+</div>
+
+## 🛠️ Built With
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+
+</div>
