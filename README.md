@@ -9,14 +9,6 @@
 
 </div>
 
-## 📅 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=caneroktay&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/caneroktay)
-
-</div>
-
 ##
 
 
