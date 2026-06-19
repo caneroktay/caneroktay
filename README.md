@@ -19,9 +19,6 @@
 
 </div>
 
-## 🛠️ Built With
-
-## 🌐 Find Me
 
 <div align="center">
 
