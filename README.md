@@ -1,5 +1,3 @@
-<h1 align="center">📈 Caner Oktay's Dev Metrics</h1>
-
 
 <div align="center">
 
